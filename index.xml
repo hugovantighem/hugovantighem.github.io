@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Vantighem</title>
+    <title>Hugo Vantighem - Lead technique</title>
     <link>http://hugovantighem.github.io/</link>
-    <description>Recent content on Hugo Vantighem</description>
+    <description>Recent content on Hugo Vantighem - Lead technique</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sat, 21 Nov 2020 16:15:34 +0100</lastBuildDate>
@@ -12,12 +12,15 @@
     
     
     <item>
-      <title>About</title>
-      <link>http://hugovantighem.github.io/pages/about/</link>
+      <title>Compétences</title>
+      <link>http://hugovantighem.github.io/pages/competences/</link>
       <pubDate>Sat, 21 Nov 2020 16:15:34 +0100</pubDate>
       
-      <guid>http://hugovantighem.github.io/pages/about/</guid>
-      <description></description>
+      <guid>http://hugovantighem.github.io/pages/competences/</guid>
+      <description>Développement Lead technique sur les développements back je vous accompagne sur vos projets en java ou golang.
+J&amp;rsquo;interviens également sur le développement front sur les frameworks Angular, React et VueJS.
+J&amp;rsquo;effectue les revues de code pour garantir la qualité du code produit par l&#39;équipe ainsi que sur la montée en compétences des profils plus juniors.
+Je veille à l&amp;rsquo;application des bonnes pratiques de développement pour produire du code performant, de qualité et maintenable.</description>
     </item>
     
   </channel>
