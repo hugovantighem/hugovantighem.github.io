@@ -6,10 +6,24 @@
     <description>Recent content on Hugo Vantighem - Lead technique</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 21 Nov 2020 16:15:34 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2020 20:05:55 +0100</lastBuildDate>
     
 	<atom:link href="http://hugovantighem.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Technologies</title>
+      <link>http://hugovantighem.github.io/pages/technologies/</link>
+      <pubDate>Sat, 21 Nov 2020 20:05:55 +0100</pubDate>
+      
+      <guid>http://hugovantighem.github.io/pages/technologies/</guid>
+      <description>Technologies Architecture distribuée Centralisation des logs
+ Filebeat Elasticsearch Kibana   Global tracing
+ Opentracing Jaeger    Développement back Java
+ Springboot   Golang
+ mux / gorilla echo   Python
+ Django Flask    Développement Front Javascript  Typescript  Angular   React React native   VueJS   Divers Git  PostgreSql MongoDb Elasticsearch   </description>
+    </item>
     
     <item>
       <title>Compétences</title>
